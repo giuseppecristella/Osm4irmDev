@@ -36,7 +36,7 @@
                             <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
                             <ul style="list-style: none">
                                 <li>
-                                    <a href="http://www.google.it">Esempio di download materiale in href va l'url del documento pdf</a>
+                                    <a href="http://www.google.it">Logo Osmairm - PDF</a>
                                 </li>
                                  <li>
                                     <a href="http://www.google.it">artera</a>
