@@ -69,7 +69,7 @@
 	text-indent: -9999px;
 	opacity:0.6;
 	filter:alpha(opacity=60);
-	background: url(../images/socialize-icons/prenotazioni.png) no-repeat 0 0;
+	background: url(../images/socialize-icons/newsletter.png) no-repeat 0 0;
 }
 .social-bookmarks li.prenotazioni a:hover {
 	background-color: #ffdd00;

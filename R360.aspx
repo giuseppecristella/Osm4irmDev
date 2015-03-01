@@ -4,9 +4,9 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentMeta" runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="cphHead" runat="Server">
-    <!-- Masonry Javascript File -->
+    <%-- <!-- Masonry Javascript File -->
     <script type="text/javascript" src="javascript/jquery.isotope.min.js"></script>
-    <script type="text/javascript" src="javascript/jquery.flexslider.js"></script>
+    <script type="text/javascript" src="javascript/jquery.flexslider.js"></script>--%>
     <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
 </asp:Content>
 
@@ -23,7 +23,7 @@
         </div>
         <span id="multi" class="peppe">
             <a href="#" class="chiudi">x</a>
-        </span> 
+        </span>
     </div>
     <div class="content">
         <div class="section-title">
@@ -137,4 +137,9 @@
             </form>
         </div>
     </div>
+</asp:Content>
+<asp:Content ID="cFooterScripts" ContentPlaceHolderID="cphFooterScripts" runat="server">
+    <!-- Masonry Javascript File -->
+    <script type="text/javascript" src="javascript/jquery.isotope.min.js"></script>
+    <%--   <script type="text/javascript" src="javascript/jquery.flexslider.js"></script>--%>
 </asp:Content>

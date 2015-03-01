@@ -5,7 +5,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="cphHead" runat="Server">
     <link href="css/map/space.css" rel="stylesheet" type="text/css" />
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.4&amp;sensor=false"></script>
+    <%-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.4&amp;sensor=false"></script>
     <script src="javascript/map/mappa_jquery.js" type="text/javascript"></script>
     <script src="javascript/map/infobubble_min.js" type="text/javascript"></script>
     <script type="text/javascript">
@@ -13,7 +13,7 @@
             var func_Obj = new initialize("", "", "17", "1");
             func_Obj.markers("strutture-osmairm", "xml/marker.xml");
         });
-    </script>
+    </script>--%>
 </asp:Content>
 
 <asp:Content ID="Content4" ContentPlaceHolderID="cphMain" runat="Server">
@@ -75,6 +75,18 @@
             </div>
         </div>
     </div>
+</asp:Content>
+
+<asp:Content ID="cFooterScripts" ContentPlaceHolderID="cphFooterScripts" runat="server">
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.4&amp;sensor=false"></script>
+    <script src="javascript/map/mappa_jquery.js" type="text/javascript"></script>
+    <script src="javascript/map/infobubble_min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var func_Obj = new initialize("", "", "17", "1");
+            func_Obj.markers("strutture-osmairm", "xml/marker.xml");
+        });
+    </script>
 </asp:Content>
 
 

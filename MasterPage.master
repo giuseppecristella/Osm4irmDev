@@ -42,7 +42,6 @@
             <uc1:NewletterUC runat="server" ID="NewletterUC" />
             <div id="content-wrapper">
                 <asp:ContentPlaceHolder ID="cphMain" runat="server">
-                    aa
                 </asp:ContentPlaceHolder>
             </div>
             <div id="footer-wrapper">
@@ -69,6 +68,9 @@
         <script src="Scripts/Countdown/jquery.ccountdown.js"></script>
         <script src="Scripts/Countdown/init.js"></script>
         <script src="Scripts/Countdown/general.js"></script>
+
+        <asp:ContentPlaceHolder ID="cphFooterScripts" runat="server">
+        </asp:ContentPlaceHolder>
     </div>
 
 </body>
