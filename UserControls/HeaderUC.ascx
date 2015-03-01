@@ -52,9 +52,9 @@
         </ul>
     </div>
     <ul class="social-bookmarks">
-        <li class="facebook"><a href="#">facebook</a></li>
-        <li class="googleLarge"><a href="#">skype</a></li>
-        <li class="youtubeLarge"><a href="#">twitter</a></li>
+        <li class="facebook"><a target="_blank" href="https://www.facebook.com/osmairm">facebook</a></li>
+        <li class="googleLarge"><a target="_blank" href="https://plus.google.com/b/105277238101257581054/105277238101257581054/posts/p/pub">skype</a></li>
+        <li class="youtubeLarge"><a target="_blank" href="https://www.youtube.com/channel/UCF84dAjAyv6v4Q1Psm9oNwQ">twitter</a></li>
         <li class="prenotazioni">
             <a class="trigger-header" href="#">Newsletter</a> </li>
     </ul>
