@@ -4,9 +4,8 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="cphHead" runat="Server">
     <!-- Flexslider JavaScript Files -->
-    <script type="text/javascript" src="javascript/jquery.flexslider.js"></script>
+    <%--<script type="text/javascript" src="javascript/jquery.flexslider.js"></script>--%>
     <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
-  <%--  <link href="css/countdown/bootstrap.min.css" rel="stylesheet" />--%>
     <link href="css/countdown/styles.css" rel="stylesheet" />
 </asp:Content>
 
@@ -102,11 +101,11 @@
 			</ul>              
 		</section>
         </div>
-        <script src="Scripts/Countdown/bootstrap.min.js"></script>
-        <script src="Scripts/Countdown/jquery.knob.js"></script>
+       <%-- <script src="Scripts/Countdown/bootstrap.min.js"></script>--%>
+<%--        <script src="Scripts/Countdown/jquery.knob.js"></script>
         <script src="Scripts/Countdown/jquery.ccountdown.js"></script>
         <script src="Scripts/Countdown/init.js"></script>
-        <script src="Scripts/Countdown/general.js"></script>
+        <script src="Scripts/Countdown/general.js"></script>--%>
     </div>
 </asp:Content>
 

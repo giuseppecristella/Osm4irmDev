@@ -21,7 +21,7 @@
 <![endif]-->
     <asp:Literal runat="server" ID="ltrCssStyleSheets"></asp:Literal>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
-    <asp:Literal runat="server" ID="ltrJavascripts"></asp:Literal>
+    <%-- <asp:Literal runat="server" ID="ltrJavascripts"></asp:Literal>--%>
     <script type="text/javascript" src="javascript/jquery.scrollTo.js"></script>
     <script type="text/javascript" src="javascript/jquery.nav.js"></script>
     <script type="text/javascript">
@@ -62,7 +62,14 @@
                 </div>
             </div>
         </div>
+        <asp:Literal runat="server" ID="ltrJavascripts"></asp:Literal>
         <script type="text/javascript" src="javascript/jquery.flexslider.js"></script>
+
+        <script src="Scripts/Countdown/jquery.knob.js"></script>
+        <script src="Scripts/Countdown/jquery.ccountdown.js"></script>
+        <script src="Scripts/Countdown/init.js"></script>
+        <script src="Scripts/Countdown/general.js"></script>
     </div>
+
 </body>
 </html>
