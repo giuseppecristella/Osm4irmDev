@@ -39,7 +39,13 @@
                                     <a href="http://www.google.it">Logo Osmairm - PDF</a>
                                 </li>
                                  <li>
-                                    <a href="http://www.google.it">artera</a>
+                                    <a href="http://www.google.it">Logo Osmairm - JPG 72 DPI</a>
+                                </li>
+                                <li>
+                                    <a href="http://www.google.it">Logo Osmairm - JPG 300 DPI</a>
+                                </li>
+                                <li>
+                                    <a href="http://www.google.it">Logo Osmairm - PNG (con trasparenza)</a>
                                 </li>
                             </ul>
                         </div>
