@@ -120,32 +120,34 @@
                     </div>
                 </div>
                 <!--END ONE-THIRD LAST-->
-
+                <div style="text-align: center" class="centered"><div><h2>Aspettando Los Angeles</h2></div></div>
+                <div class="divider"></div>
             </div>
         </div>
-       <%-- per modificare i colori del countdown agire sull'attributo data-fgcolor, es. data-fgcolor="#34aadc"--%>
+        <%-- per modificare i colori del countdown agire sull'attributo data-fgcolor, es. data-fgcolor="#34aadc"--%>
         <div class="fullwidth">
-            <section class="count-down-wrapper fade-down">
+            <section class="count-down-wrapper fade-down"> 
 			<ul class="row count-down">                       
 				<li class="col-md-3 col-sm-6">   
-					<input class="knob days" data-readonly=true data-min="0" data-max="365" data-width="260" data-height="260" data-thickness="0.07" data-fgcolor="#34aadc" data-bgColor="#e1e2e6" data-angleOffset="180">
+					<input class="knob days" data-readonly=true data-min="0" data-max="365" data-width="260" data-height="260" data-thickness="0.07" data-fgcolor="#fff031" data-bgColor="#e1e2e6" data-angleOffset="180">
 					<span id="days-title">days</span>
 				</li>    
 				<li class="col-md-3 col-sm-6"> 
-					<input class="knob hour" data-readonly=true data-min="0" data-max="24" data-width="260" data-height="260" data-thickness="0.07" data-fgcolor="#4cd964" data-bgColor="#e1e2e6" data-angleOffset="180">
+					<input class="knob hour" data-readonly=true data-min="0" data-max="24" data-width="260" data-height="260" data-thickness="0.07" data-fgcolor="#fff031" data-bgColor="#e1e2e6" data-angleOffset="180">
 					<span id="hours-title">hours</span>
 				</li>    
 				<li class="col-md-3 col-sm-6"> 
-					<input class="knob minute" data-readonly=true data-min="0" data-max="60" data-width="260" data-height="260" data-thickness="0.07" data-fgcolor="#ff9500" data-bgColor="#e1e2e6" data-angleOffset="180">
+					<input class="knob minute" data-readonly=true data-min="0" data-max="60" data-width="260" data-height="260" data-thickness="0.07" data-fgcolor="#fff031" data-bgColor="#e1e2e6" data-angleOffset="180">
 					<span id="mins-title">minutes</span>
 				</li>    
 				<li class="col-md-3 col-sm-6"> 
-					<input class="knob second" data-readonly=true data-min="0" data-max="60" data-width="260" data-height="260" data-thickness="0.07" data-fgcolor="#ff3b30" data-bgColor="#e1e2e6" data-angleOffset="180">
+					<input class="knob second" data-readonly=true data-min="0" data-max="60" data-width="260" data-height="260" data-thickness="0.07" data-fgcolor="#fff031" data-bgColor="#e1e2e6" data-angleOffset="180">
 					<span id="secs-title">seconds</span>
 				</li>                
-			</ul>              
+			</ul>               
 		</section>
         </div>
+        <div style="text-align: center" class="centered"><div><img alt="" src="images/logo_special_olympics.png"/></div></div>
         <%-- <script src="Scripts/Countdown/bootstrap.min.js"></script>--%>
         <%--        <script src="Scripts/Countdown/jquery.knob.js"></script>
         <script src="Scripts/Countdown/jquery.ccountdown.js"></script>

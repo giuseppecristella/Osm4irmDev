@@ -1,8 +1,8 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Admin/AdminMaster.master" AutoEventWireup="true" CodeFile="Downloads.aspx.cs" Inherits="Users.Users_Downloads" %>
 
 <asp:Content ID="ContentMenu" runat="server" ContentPlaceHolderID="cphAdminMenu">
-    <li class="active"><a href="Default.aspx">Link Utili</a></li>
-    <li><a href="Downloads.aspx">Downloads</a></li>
+    <li><a href="Default.aspx">Link Utili</a></li>
+    <li class="active"><a href="Downloads.aspx">Downloads</a></li>
 </asp:Content>
 <asp:Content ID="ContentBody" runat="server" ContentPlaceHolderID="cphAdminBody">
     <div class="page-content">
@@ -16,7 +16,7 @@
             <div class="modal-body">
                 <p>
                 </p>
-            </div>
+            </div> 
         </div>
         <div class="container-fluid">
             <div class="row-fluid">
