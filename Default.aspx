@@ -68,7 +68,7 @@
                         <p style="float: none; font-weight: bold; font-style: italic; font-size: 1.5em;">Linea Diretta</p>
 
                         <span><b style="font-size: 1.2em">+39 099 821 62 13</b><br />
-                            <asp:Localize meta:resourcekey="Home_Box2_Text" runat="server"></asp:Localize>
+                            testo testo testo
                         </span>
                         <div style="padding-top: 20px;">
                             <a href="Contatti.aspx">Contatti</a>
@@ -83,7 +83,7 @@
                             <img src="images/logo1home.png" alt="" /></span>
                         <p style="float: none; font-weight: bold; font-style: italic; font-size: 1.5em;">Centri Osmairm</p>
                         <span><b style="font-size: 1.2em">RIABILITAZIONE A 360°</b><br />
-                            <asp:Localize meta:resourcekey="Home_Box1_Text" runat="server"></asp:Localize></span>
+                            testo testo testo</span>
                         <div style="padding-top: 20px;">
                             <a href="Azienda.aspx">Chi Siamo</a>
                         </div>
@@ -98,7 +98,7 @@
                         </span>
                         <p style="float: none; font-style: italic; font-weight: bold; font-size: 1.5em;">In Evidenza</p>
                         <span><b style="font-size: 1.2em">SPECIAL OLIMPICS</b><br />
-                            <asp:Localize meta:resourcekey="Home_Box2_Text" runat="server"></asp:Localize>
+                            testo testo testo
                         </span>
                         <div style="padding-top: 20px;">
                             <a href="R360.aspx">Vai al Blog</a>
@@ -112,7 +112,7 @@
                         <p style="float: none; font-weight: bold; font-style: italic; font-size: 1.5em;">Linea Diretta</p>
 
                         <span><b style="font-size: 1.2em">+39 099 821 62 13</b><br />
-                            <asp:Localize meta:resourcekey="Home_Box2_Text" runat="server"></asp:Localize>
+                            testo testo testo
                         </span>
                         <div style="padding-top: 20px;">
                             <a href="Contatti.aspx">Contatti</a>
