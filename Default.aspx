@@ -56,7 +56,7 @@
                             <asp:Localize meta:resourcekey="Home_Box2_Text" runat="server"></asp:Localize>
                         </span>
                         <div style="padding-top: 20px;">
-                            <a href="R360.aspx">Vai al Blog</a>
+                            <a href="R360.aspx">Ultime News</a>
                         </div>
                     </div>
                 </div>
@@ -64,10 +64,10 @@
                     <div>
                         <span class="dropcap1">
                             <img src="images/logo3home.png" /></span>
-                        <p style="float: none; font-weight: bold; font-style: italic; font-size: 1.5em;">Linea Diretta</p>
+                        <p style="float: none; font-weight: bold; font-style: italic; font-size: 1.5em;">+39 099 821 62 13</p>
 
-                        <span><b style="font-size: 1.2em">+39 099 821 62 13</b><br />
-                            testo testo testo
+                        <span><b style="font-size: 1.2em">Linea Diretta</b><br />
+                            Da oggi un unico numero per la gestione dei servizi, la tua linea diretta con il centralino e gli operatori Osmairm!
                         </span>
                         <div style="padding-top: 20px;">
                             <a href="Contatti.aspx">Contatti</a>
@@ -80,11 +80,11 @@
                     <div>
                         <span class="dropcap1">
                             <img src="images/logo1home.png" alt="" /></span>
-                        <p style="float: none; font-weight: bold; font-style: italic; font-size: 1.5em;">Centri Osmairm</p>
-                        <span><b style="font-size: 1.2em">RIABILITAZIONE A 360°</b><br />
-                            testo testo testo</span>
+                        <p style="float: none; font-weight: bold; font-style: italic; font-size: 1.5em;">R360</p>
+                        <span><b style="font-size: 1.2em">Il Blog Osmairm</b><br />
+                            Tutte le info e le notizie sui centri di riabilitazione osmairm in un nuovo ed innovativo formato. Il filo diretto con la "famiglia" Osmairm!</span>
                         <div style="padding-top: 20px;">
-                            <a href="Azienda.aspx">Chi Siamo</a>
+                            <a href="Blog.aspx">Blog</a>
                         </div>
                     </div>
                     <div></div>
@@ -95,12 +95,13 @@
                         <span class="dropcap1">
                             <img src="images/logo2home.png" alt="" />
                         </span>
-                        <p style="float: none; font-style: italic; font-weight: bold; font-size: 1.5em;">In Evidenza</p>
-                        <span><b style="font-size: 1.2em">SPECIAL OLIMPICS</b><br />
-                            testo testo testo
+                        <p style="float: none; font-style: italic; font-weight: bold; font-size: 1.5em;">Turismo Accessibile</p>
+                        <span><b style="font-size: 1.2em">Turismo e disabilità</b><br />
+                            Osmairm da sempre combatte
+per ridurre ogni tipo di barriera reinterpretando il rapporto tra turismo e disabilità !
                         </span>
                         <div style="padding-top: 20px;">
-                            <a href="R360.aspx">Vai al Blog</a>
+                            <a href="servizi.aspx#riab-8">Turismo Accessibile</a>
                         </div>
                     </div>
                 </div>
@@ -108,13 +109,13 @@
                     <div>
                         <span class="dropcap1">
                             <img src="images/logo3home.png" /></span>
-                        <p style="float: none; font-weight: bold; font-style: italic; font-size: 1.5em;">Linea Diretta</p>
+                        <p style="float: none; font-weight: bold; font-style: italic; font-size: 1.5em;">Raggio di Sole</p>
 
-                        <span><b style="font-size: 1.2em">+39 099 821 62 13</b><br />
-                            testo testo testo
+                        <span><b style="font-size: 1.2em">Età Evolutiva</b><br />
+                            Le problematiche dello sviluppo, con attenzione alla globalità e seguendo le Linee Guida Ministeriali.
                         </span>
                         <div style="padding-top: 20px;">
-                            <a href="Contatti.aspx">Contatti</a>
+                            <a href="servizi.aspx#riab-7">Raggio di Sole</a>
                         </div>
                     </div>
                 </div>
