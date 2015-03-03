@@ -113,7 +113,7 @@ per ridurre ogni tipo di barriera reinterpretando il rapporto tra turismo e disa
                         <p style="float: none; font-weight: bold; font-style: italic; font-size: 1.5em;">Età Evolutiva</p>
 
                         <span><b style="font-size: 1.2em">Raggio di Sole</b><br />
-                            Le problematiche dello sviluppo, con attenzione alla globalità e seguendo le Linee Guida Ministeriali
+                            Le problematiche dello sviluppo, con attenzione alla globalità e seguendo le Linee Guida Ministeriali.
                         </span>
                         <div style="padding-top: 20px;">
                             <a href="servizi.aspx#riab-7">Raggio di Sole</a>
