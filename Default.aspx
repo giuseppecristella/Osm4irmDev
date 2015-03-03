@@ -57,7 +57,7 @@
                             <asp:Localize meta:resourcekey="Home_Box2_Text" runat="server"></asp:Localize>
                         </span>
                         <div style="padding-top: 20px;">
-                            <a href="R360.aspx">Vai al Blog</a>
+                            <a href="R360.aspx">Ultime News</a>
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@
                         <span><b style="font-size: 1.2em">Il Blog Osmairm</b><br />
                             Tutte le info e le notizie sui centri di riabilitazione osmairm. Il filo diretto con la "famiglia" Osmairm!</span>
                         <div style="padding-top: 20px;">
-                            <a href="Blog.aspx">Vai al Blog</a>
+                            <a href="Blog.aspx">Blog</a>
                         </div>
                     </div>
                     <div></div>
@@ -110,9 +110,9 @@ per ridurre ogni tipo di barriera reinterpretando il rapporto tra turismo e disa
                     <div>
                         <span class="dropcap1">
                             <img src="images/logo3home.png" /></span>
-                        <p style="float: none; font-weight: bold; font-style: italic; font-size: 1.5em;">Età Evolutiva</p>
+                        <p style="float: none; font-weight: bold; font-style: italic; font-size: 1.5em;">Raggio di Sole</p>
 
-                        <span><b style="font-size: 1.2em">Raggio di Sole</b><br />
+                        <span><b style="font-size: 1.2em">Età Evolutiva</b><br />
                             Le problematiche dello sviluppo, con attenzione alla globalità e seguendo le Linee Guida Ministeriali.
                         </span>
                         <div style="padding-top: 20px;">
