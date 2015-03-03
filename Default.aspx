@@ -65,9 +65,9 @@
                     <div>
                         <span class="dropcap1">
                             <img src="images/logo3home.png" /></span>
-                        <p style="float: none; font-weight: bold; font-style: italic; font-size: 1.5em;">Linea Diretta</p>
+                        <p style="float: none; font-weight: bold; font-style: italic; font-size: 1.5em;">+39 099 821 62 13</p>
 
-                        <span><b style="font-size: 1.2em">+39 099 821 62 13</b><br />
+                        <span><b style="font-size: 1.2em">Linea Diretta</b><br />
                             Da oggi un unico numero per la gestione dei servizi, la tua linea diretta con il centralino e gli operatori Osmairm!
                         </span>
                         <div style="padding-top: 20px;">
@@ -96,10 +96,10 @@
                         <span class="dropcap1">
                             <img src="images/logo2home.png" alt="" />
                         </span>
-                        <p style="float: none; font-style: italic; font-weight: bold; font-size: 1.5em;">Servizi Osmairm</p>
-                        <span><b style="font-size: 1.2em">Turismo Accessibile</b><br />
+                        <p style="float: none; font-style: italic; font-weight: bold; font-size: 1.5em;">Turismo Accessibile</p>
+                        <span><b style="font-size: 1.2em">Turismo e disabilità</b><br />
                             Osmairm da sempre combatte
-per ridurre ogni tipo di barriera!
+per ridurre ogni tipo di barriera reinterpretando il rapporto tra turismo e disabilità !
                         </span>
                         <div style="padding-top: 20px;">
                             <a href="servizi.aspx#riab-8">Turismo Accessibile</a>
@@ -113,10 +113,10 @@ per ridurre ogni tipo di barriera!
                         <p style="float: none; font-weight: bold; font-style: italic; font-size: 1.5em;">Età Evolutiva</p>
 
                         <span><b style="font-size: 1.2em">Raggio di Sole</b><br />
-                            Raggio di Sole si rivolge a di diverse problematiche dello sviluppo, con attenzione alla globalità e facendo proprie le indicazioni presenti nelle Linee Guida Ministeriali
+                            Ci rivolgiamo a di diverse problematiche dello sviluppo, con attenzione alla globalità e seguendo le Linee Guida Ministeriali
                         </span>
                         <div style="padding-top: 20px;">
-                            <a href="Contatti.aspx">Contatti</a>
+                            <a href="servizi.aspx#riab-7">Raggio di Sole</a>
                         </div>
                     </div>
                 </div>
