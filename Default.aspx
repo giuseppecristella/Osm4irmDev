@@ -4,7 +4,6 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="cphHead" runat="Server">
     <!-- Flexslider JavaScript Files -->
-    <%--<script type="text/javascript" src="javascript/jquery.flexslider.js"></script>--%>
     <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
     <link href="css/countdown/styles.css" rel="stylesheet" />
 </asp:Content>

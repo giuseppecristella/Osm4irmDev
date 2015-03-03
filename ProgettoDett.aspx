@@ -3,11 +3,6 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentMeta" runat="Server">
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="cphHead" runat="Server">
-    <!-- Flexslider JavaScript Files -->
-    <script type="text/javascript" src="javascript/jquery.flexslider.js"></script>
-    <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
-</asp:Content>
  
 <asp:Content ID="Content4" ContentPlaceHolderID="cphMain" runat="Server">
     <div class="content">
@@ -287,4 +282,10 @@
         <!--END SIDEBAR-->
     </div>
     <!--END CONTENT-->
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="cphFooterScripts" runat="Server">
+    <!-- Flexslider JavaScript Files -->
+    <script type="text/javascript" src="javascript/jquery.flexslider.js"></script>
+    <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
 </asp:Content>

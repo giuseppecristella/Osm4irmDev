@@ -3,9 +3,7 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentMeta" runat="Server">
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="cphHead" runat="Server">
-    <script type="text/javascript" src="javascript/jquery.isotope.min.js"></script>
-</asp:Content>
+
 <asp:Content ID="Content4" ContentPlaceHolderID="cphMain" runat="Server">
     <div class="content">
         <div class="section-title">
@@ -65,4 +63,8 @@
             </ul>
         </div>
     </div>
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="cphFooterScripts" runat="Server">
+    <script type="text/javascript" src="javascript/jquery.isotope.min.js"></script>
 </asp:Content>
