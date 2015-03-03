@@ -83,7 +83,7 @@
                             <img src="images/logo1home.png" alt="" /></span>
                         <p style="float: none; font-weight: bold; font-style: italic; font-size: 1.5em;">R360</p>
                         <span><b style="font-size: 1.2em">Il Blog Osmairm</b><br />
-                            Tutte le info e le notizie sui centri di riabilitazione osmairm. Il filo diretto con la "famiglia" Osmairm!</span>
+                            Tutte le info e le notizie sui centri di riabilitazione osmairm ed in un nuovo ed innovativo formato. Il filo diretto con la "famiglia" Osmairm!</span>
                         <div style="padding-top: 20px;">
                             <a href="Blog.aspx">Blog</a>
                         </div>
