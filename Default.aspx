@@ -120,7 +120,11 @@ per ridurre ogni tipo di barriera reinterpretando il rapporto tra turismo e disa
                     </div>
                 </div>
                 <!--END ONE-THIRD LAST-->
-                <div style="text-align: center" class="centered"><div><h2>Aspettando Los Angeles</h2></div></div>
+                <div style="text-align: center" class="centered">
+                    <div>
+                       <div style="font-size: 22px;line-height: 27px;">Aspettando <b>Los Angeles</b></div>
+                    </div>
+                </div>
                 <div class="divider"></div>
             </div>
         </div>
@@ -147,7 +151,11 @@ per ridurre ogni tipo di barriera reinterpretando il rapporto tra turismo e disa
 			</ul>               
 		</section>
         </div>
-        <div style="text-align: center" class="centered"><div><img alt="" src="images/logo_special_olympics.png"/></div></div>
+        <div style="text-align: center" class="centered">
+            <div>
+                <img alt="" src="images/logo_special_olympics.png" />
+            </div>
+        </div>
         <%-- <script src="Scripts/Countdown/bootstrap.min.js"></script>--%>
         <%--        <script src="Scripts/Countdown/jquery.knob.js"></script>
         <script src="Scripts/Countdown/jquery.ccountdown.js"></script>
